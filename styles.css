@@ -19,12 +19,13 @@ body {
 }
 /* End Hero Section */
 
-.about-section {
+/* About Section */
+.about-section, .social-section {
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
 
-.about-section .title {
+.about-section .title, .social-section .title {
     font-family: 'Oswald', sans-serif;
     font-size: 3.3em;
     font-weight: 600;
@@ -34,3 +35,20 @@ body {
 .about-section .card {
     border: none;
 }
+
+/* End About Section */
+
+/* Social Section **/
+.social-section {
+    background-color: black;
+    color: white;
+}
+
+.social-section a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.8em;
+    font-weight: normal;
+}
+
+/* End Social Section */
