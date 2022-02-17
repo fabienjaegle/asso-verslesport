@@ -1,0 +1,14 @@
+
+/* Hero Section */ 
+.hero-section {
+	background-image: url(assets/img/hero-bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+    height: 530px;
+    display: flex;
+    align-items: center;
+}
+/* End Hero Section */
