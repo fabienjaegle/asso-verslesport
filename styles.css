@@ -5,7 +5,9 @@ body {
   background-color: white;
 }
 
-.about-section, .social-section, .events-section {
+.about-section,
+.social-section,
+.events-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
