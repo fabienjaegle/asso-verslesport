@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;600&family=Oswald:wght@400;600&display=swap');
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
 
 /* Hero Section */ 
 .hero-section {
@@ -12,3 +18,19 @@
     align-items: center;
 }
 /* End Hero Section */
+
+.about-section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.about-section .title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3.3em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.about-section .card {
+    border: none;
+}
