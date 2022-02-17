@@ -124,4 +124,10 @@ section {
     color: #999;
 }
 
+.event-venue {
+    font-family: 'Jost', sans-serif;
+    font-size: 14px;
+    color: #999;
+}
+
 /* End Events Section */
