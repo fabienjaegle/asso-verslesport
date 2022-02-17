@@ -79,6 +79,14 @@ section {
 
 /* End Social Section */
 
+/* Footer Section */
+
+footer h4 {
+    font-size: 1rem;
+}
+
+/* End Foot Section */
+
 
 /*Pager header Section */
 
@@ -105,7 +113,7 @@ section {
     border: 1px dashed #ddd;
 }
 
-.event-details h3 {
+.event-title {
     font-family: 'Oswald', sans-serif;
     font-size: 1.5em;
 }
